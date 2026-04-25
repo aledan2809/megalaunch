@@ -1,0 +1,20 @@
+{
+  "name": "ml",
+  "version": "1.0.0",
+  "description": "MegaLaunch — Master Monetization Roadmap",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Fabulosos",
+  "license": "ISC",
+  "dependencies": {
+    "ai-router": "file:../AIRouter"
+  },
+  "devDependencies": {
+    "@types/node": "^25.5.2",
+    "typescript": "^6.0.2"
+  }
+}
