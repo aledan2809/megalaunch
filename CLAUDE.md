@@ -42,3 +42,7 @@ D:\Projects\ML\
 - **Hostinger**: 50-domain plan for all project domains
 - **VPS1**: 187.77.179.159 (PRO, eCabinet)
 - **VPS2**: 72.62.155.74 (BlocX, MA, UtilajHub, KnowBest, etc.)
+
+
+## Governance Reference
+See: `Master/knowledge/MASTER_SYSTEM.md` §1-§5. This project follows Master governance; do not duplicate rules.
